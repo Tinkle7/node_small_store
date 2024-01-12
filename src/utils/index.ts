@@ -1,0 +1,1 @@
+export { default as mainModuleDirname } from "./path";
